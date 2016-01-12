@@ -1,8 +1,8 @@
-## My personal website
+## My Personal Website
 
 Hi! This is my personal website (in-building) based on /Freelancer/ theme.
 
-## [Freelancer](http://startbootstrap.com/template-overviews/freelancer/)
+## Freelancer
 
 [Freelancer](http://startbootstrap.com/template-overviews/freelancer/) is a one page freelancer portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, and a working PHP contact form.
 
