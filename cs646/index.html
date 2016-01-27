@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CS646</title>
+</head>
+<body>
+	<h1>
+		CS646 Project Proposal Presentation Script
+	</h1>
+	<font size="5"><p>
+		P7: Create/Demand Carpool<br>
+		Drivers can create carpools and passengers can demand carpools by providing basic infomation, such as departure and arrival location (which can be set through Google Map API), departure date and time (which can be set as a range) and an ideal price. Drivers also have to set a mas passenger number when creating carpool.<br><br>
+		
+		P8: Search Carpool<br>
+		Passengers can search among existing carpools by providing desired carpool info. The search algorithm will first search carpools with valid date and time. Then it will compare the passenger's desired departure and arrival location with existing carpool's location and select carpools with shortest walking distance for that passenger. And the final search result will be a list of top-matched carpools.<br><br>
+
+		P9: Select Carpool<br>
+		Carpools in the search result will be presented to passengers one at a time. For each carpool in the search result, passengers can check carpool info and the driver's rating and reviews. We will talk about the review module in a moment. If they think it's a bad match, they can decline this carpool and check the next carpool in the search result. If they think it's a good match, they can mark this carpool as interested to check later. Or, if they think it's a perfect match, they can confirm to join this carpool immediately. Drivers can also search and select among demanded carpools, and create new carpools accordingly.<br><br>
+
+		P10: Manage Carpool List<br>
+		Passengers can manage three types of list. In the demand list, passengers can edit carpool demand they posted. If a driver created a new carpool according to the passenger's demand, the passenger will receive a notification. In the interested list, passengers can check and compare all the carpools they marked as interested. They can also discuss the detail about one specific carpool with the driver and other passengers using our online chat function. We'll talk about that laster. In the confirmed list, users can check the schedule of carpools they have confirmed and complete the carpool trip. For drivers, instead of demand list they have a created list, where they can check and edit the carpool post they created and receive notifications if passengers confirmed their carpool.<br><br>
+
+		P11: Carpool Trip<br>
+		To complete a carpool trip, there are three steps. First, before departure all the passengers have to confirm that they got in the car. Then a navigation to destination will be provided to the driver. We intend to do this through Google Map API as well. And finally after reaching the destination, the driver need to confirm that passengers have paid for the trip, then the passengers are allowed to rate the driver and write reviews<br><br>
+	</p></font>
+	<embed width="100%" height="800px" src="proposalslides.pdf" alt="pdf" pluginspage="http://www.adobe.com/products/acrobat/readstep2.html">
+</body>
+</html>
