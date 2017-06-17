@@ -1,6 +1,6 @@
 ## My Personal Website
 
-Hi! This is my personal website (in-building) based on /Freelancer/ theme.
+Hi! This is my personal website (in-building) based on Freelancer theme.
 
 ## Freelancer
 
